@@ -1,5 +1,6 @@
 //Meza González Sofía Jacqueline
 //Legajo: 122795/5
+//Comisión 1
 
 int posX, posY, anchoBot, altoBot;
 int miVariable = 1;
